@@ -1,2 +1,0 @@
-# propose-simulator
-プロポーズシミュレーター
